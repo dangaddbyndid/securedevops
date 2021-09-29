@@ -1,5 +1,4 @@
 <?php
-///HELLO
 //Comment
 // Version
 define('VERSION', '1.5.6');
